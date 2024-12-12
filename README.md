@@ -2,7 +2,7 @@
 =========================================
 ---
 ## About:
-[This project](https://github.com/JARVIS843/Stroke_Prediction_ML_Project) aims to predict whether an elderly person is likely to get stroke based on eleven distinct features such as gender, age, and diseases etc. The project trains binary classification neural network models using [TensorFlow](https://www.tensorflow.org/), on Jupyter Notebook.
+[This project](https://github.com/JARVIS843/Stroke_Prediction_ML_Project) aims to predict whether an elderly person is likely to get stroke based on eleven distinct features such as gender, age, and diseases etc. It trains binary classification neural network [models](#models) using [TensorFlow](https://www.tensorflow.org/), on Jupyter Notebook.
 
 --- 
 ## Installation Instructions:
@@ -29,7 +29,7 @@ TODO: maybe require the user to create a new environment to avoid dependency con
 ---
 ## Models:
 
-If you would like to use our pre-trained models, all of them can be found: Here (TODO: Insert folder link here)
+If you would like to use our pre-trained models, all of them can be found: [Here](./Models/Model.md)
 
 Below is a table delineating the specifications and performances for each model:
 | Model Name     | Accuracy|
