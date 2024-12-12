@@ -29,7 +29,7 @@ TODO: maybe require the user to create a new environment to avoid dependency con
 ---
 ## Models:
 
-If you would like to use our pre-trained models, all of them can be found: [Here](./Models/Model.md)
+If you would like to use our pre-trained models, all of them can be found: [Here](./Models/)
 
 Below is a table delineating the specifications and performances for each model:
 | Model Name     | Accuracy|
